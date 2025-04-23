@@ -15,6 +15,9 @@ Come learn, try, develop, and share your stories! Please submit PRs, organizing 
    * - 04/15/2025
      - `Build Your First Chatbot with OPEA In Minutes <https://www.intel.com/content/www/us/en/developer/articles/guide/build-your-first-chatbot-with-opea-in-minutes.html>`_
      - Wang Xigui, Bhandaru Malini, Sin Alex, Du dolpher, Yao Yi, Hu Ying
+   * - 04/11/2025
+     - `GenAIInfra: In-depth Analysis of OPEA's Cloud-native Suite <https://mp.weixin.qq.com/s?__biz=MjM5NTUyMzU3OQ==&mid=2650961613&idx=6&sn=f0711fcc29ad18c8f303cf48e3b0cceb&chksm=bceda35662abc60181f75d729ee20c513e9ad47884ef86fa437aeb5404c425f8f02361bbeff8&mpshare=1&scene=1&srcid=0423SZIWCB6r7gA697vOvYf5&sharer_shareinfo=fe79ac2938e0194825a1d737832a7f50&sharer_shareinfo_first=fe79ac2938e0194825a1d737832a7f50&exportkey=n_ChQIAhIQVop%2B6whpQBmtCYbXN8tlPhKfAgIE97dBBAEAAAAAAK7AJzul%2FP8AAAAOpnltbLcz9gKNyK89dVj0wJm1sBSFzwJ7xbZl5Babs%2BcGgSyO9wugvd%2FIaQEIYu0Pv9mlN4HbICj%2BERon6hKwhjV4i715avZ0V6LecRB1GwP2jZzqU7VJr9hBG4Y8zlbPlgAvHVc4jQMOMSfrDwOl4iOwwfyYkbKzR%2FFKfcR6PvfXU4Xq%2Fk7JbhjbO4nzhIc3Ci2iSXYY98nn73l8WGNnCJRqk4exwScbKidjKafcjftZ3HsKTE3hS6J8u7Rh5WaungyHQfNO%2FOLOjdoXtkvFa5IFWfBimwl551aBfodurzL5qMPZdIk70iuzozb7jiNG%2B%2BVZ9XUNrZ6jgw4Aren0W8kCND9JSzOz&acctmode=0&pass_ticket=%2BZOCt%2BKHTt%2Bxt29AhFLa%2BkhBw5qH87xbvgjVrLWJcRSegGbs7WOQmunHQhEjbTS%2F&wx_header=0#rd>`_
+     - Guo Ruijing
    * - 03/14/2025
      - `Document Summarization: A Step-by-Step Guide with OPEA™ 1.2 and Intel® Gaudi® 2 <https://www.intel.com/content/www/us/en/developer/articles/technical/document-summarization-step-by-step-guide.html>`_
      - Mustafa S. Cetin, Sihan Chen, Xinyao Wang and Omar Khleif
